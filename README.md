@@ -10,9 +10,13 @@ I'm Ryo. I'm currently a junior in college.
 </div>
 
 <div align="center">
-  
-  [![Badge](https://cp-logo.vercel.app/atcoder/Xx_RYO_xX?logo=true)](https://atcoder.jp/users/Xx_RYO_xX) 
-  
+<a href="https://atcoder.jp/users/Xx_RYO_xX">
+  <img
+    src="https://cp-logo.vercel.app/atcoder/Xx_RYO_xX?logo=true"
+    alt="Badge"
+    style="width:350px; height:auto;"
+  />
+</a>
 </div>
 
 ## My skills, Environments and more
