@@ -2,9 +2,9 @@
   
   ![scroll](https://typograssy.deno.dev/api?text=Hello%20World!!%20&bg=0d1116&l0=151b23&frame=ffffff&speed=100&comment=)
   
+  I'm Ryo. I'm currently a junior in college.
 </div>
 
-I'm Ryo. I'm currently a junior in college.
 
 ## My Activity
 
