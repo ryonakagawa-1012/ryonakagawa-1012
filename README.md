@@ -1,4 +1,4 @@
-## Hello World!
+# Hello World!
 I'm Ryo. I'm currently a junior in college.
 
 ## My Activity
