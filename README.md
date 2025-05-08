@@ -7,11 +7,12 @@ I'm Ryo. I'm currently a junior in college.
   <a>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryonakagawa-1012&layout=compact&theme=dark">    
   </a>
+</div>
+
+<div align="center">
   
-
   [![Badge](https://cp-logo.vercel.app/atcoder/Xx_RYO_xX?logo=true)](https://atcoder.jp/users/Xx_RYO_xX) 
-
-
+  
 </div>
 
 ## My skills, Environments and more
