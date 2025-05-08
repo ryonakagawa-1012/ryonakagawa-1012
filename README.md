@@ -4,11 +4,12 @@ I'm Ryo. I'm currently a junior in college.
 ## My Activity
 
 <div align="center">
-  <a>
-    <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryonakagawa-1012&layout=compact&theme=dark"
-    >    
-  </a>
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ryonakagawa-1012&theme=discord_old_blurple)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ryonakagawa-1012&theme=discord_old_blurple)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ryonakagawa-1012&theme=discord_old_blurple)
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryonakagawa-1012&theme=discord_old_blurple&utcOffset=8)
+  
 </div>
 
 <div align="center">
