@@ -5,18 +5,28 @@ I'm Ryo. I'm currently a junior in college.
 
 <div align="center">
   <a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryonakagawa-1012&layout=compact&theme=dark">    
+    <img 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryonakagawa-1012&layout=compact&theme=dark"
+    >    
   </a>
 </div>
 
 <div align="center">
-<a href="https://atcoder.jp/users/Xx_RYO_xX">
-  <img
-    src="https://cp-logo.vercel.app/atcoder/Xx_RYO_xX?logo=true"
-    alt="Badge"
-    style="width:350px; height:auto;"
-  />
-</a>
+  <a href="https://atcoder.jp/users/Xx_RYO_xX?contestType=algo">
+    <img
+      src="https://badgen.org/img/atcoder/Xx_RYO_xX/rating/algorithm?style=plastic"
+      style="width:auto; height:50px;"
+    />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://atcoder.jp/users/Xx_RYO_xX?contestType=heuristic">
+    <img
+      src="https://badgen.org/img/atcoder/Xx_RYO_xX/rating/heuristic?style=plastic"
+      style="width:auto; height:50px;"
+    />
+  </a>
 </div>
 
 ## My skills, Environments and more
