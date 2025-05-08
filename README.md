@@ -26,6 +26,7 @@
   </a>
 </div>
 
+<!--
 <div align="center">
   <a href="https://atcoder.jp/users/Xx_RYO_xX?contestType=heuristic">
     <img
@@ -34,6 +35,7 @@
     />
   </a>
 </div>
+-->
 
 ## My skills, Environments and more
 <div align="center">
