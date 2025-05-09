@@ -29,17 +29,14 @@
 	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
 	  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ryonakagawa-1012/ryonakagawa-1012/output-3d-contrib/day.svg" />
 	</picture>
+
+  <picture>
+    <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+    <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
+  <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ryonakagawa-1012/ryonakagawa-1012/output-3d-contrib/day.svg" />
+  </picture>
+  
 </div>
-
-
-<p align="left">
-<picture>
-  <source media="(prefers-color-scheme: light)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
-  <source media="(prefers-color-scheme: dark)"  srcset="output/metrics.plugin.achievements.compact.svg" width="400" />
- <img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ryonakagawa-1012/ryonakagawa-1012/output-3d-contrib/day.svg" />
-</picture>
-
-
 
 <div align="center">
   <a href="https://atcoder.jp/users/Xx_RYO_xX?contestType=algo">
