@@ -22,8 +22,6 @@
 	<img alt="github profile contributions chart"    src="https://raw.githubusercontent.com/ryonakagawa-1012/ryonakagawa-1012/output-3d-contrib/day.svg" />
   </picture>
   
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ryonakagawa-1012&theme=discord_old_blurple&utcOffset=8)
-  
   <picture>
 	  <source media="(prefers-color-scheme: dark)"  srcset="profile-3d-contrib/profile-night-rainbow.svg" width="700" />
 	  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-season-animate.svg" width="700" />
