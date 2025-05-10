@@ -47,10 +47,21 @@
 
 <div align="center">
   <a href="https://atcoder.jp/users/Xx_RYO_xX?contestType=algo">
-    <img
-      src="https://badgen.org/img/atcoder/Xx_RYO_xX/rating/algorithm?style=plastic"
-      style="width:auto; height:50px;"
-    />
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://badgen.org/img/atcoder/Xx_RYO_xX/rating/algorithm?style=plastic"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://badgen.org/img/atcoder/Xx_RYO_xX/rating/algorithm?style=social"
+      />
+      <img
+        alt="AtCoder rating"
+        src="https://badgen.org/img/atcoder/Xx_RYO_xX/rating/algorithm?style=plastic"
+        style="width:auto; height:50px;"
+      />
+    </picture>
   </a>
 </div>
 
