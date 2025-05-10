@@ -1,6 +1,19 @@
 <div align="center">
   
-  ![scroll](https://typograssy.deno.dev/api?text=Hello%20World!!%20&bg=0d1116&l0=151b23&frame=ffffff&speed=100&comment=)
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://typograssy.deno.dev/api?text=Hello%20World!!%20&bg=0d1116&l0=151b23&frame=ffffff&speed=100&comment="
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="https://typograssy.deno.dev/api?text=Hello%20World!!%20&bg=ffffff&l0=cccccc&frame=000000&speed=100&comment="
+    />
+    <img
+      alt="scroll"
+      src="https://typograssy.deno.dev/api?text=Hello%20World!!%20&bg=0d1116&l0=151b23&frame=ffffff&speed=100&comment="
+    />
+  </picture>
   
   I'm Ryo. I'm currently a junior in college.
 </div>
