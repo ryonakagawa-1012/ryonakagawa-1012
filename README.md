@@ -59,7 +59,7 @@
       <img
         alt="AtCoder rating"
         src="https://badgen.org/img/atcoder/Xx_RYO_xX/rating/algorithm?style=plastic"
-        style="width:auto; height:30px;"
+        style="width:auto; height:100px;"
       />
     </picture>
   </a>
