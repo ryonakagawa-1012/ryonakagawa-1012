@@ -89,9 +89,25 @@
 </div>
 
 
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ryonakagawa-1012/ryonakagawa-1012/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ryonakagawa-1012/ryonakagawa-1012/output/github-contribution-grid-snake.svg" />
   <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/ryonakagawa-1012/ryonakagawa-1012/output/github-contribution-grid-snake.svg" />
 </picture>
+
+## My Portfolio
+
+| 作品名                                                 | 概要               | 使用技術 | 
+| ------------------------------------------------------ | ------------------ | -------- | 
+| [Othello](https://github.com/ryonakagawa-1012/Othello) | 個人開発<br>8*8 のオセロゲーム | C | 
+|  [Visualization_Sort_Algorithm](https://github.com/ryonakagawa-1012/Visualization_Sort_Algorithm) | 個人開発<br>様々なソートアルゴリズムをグラフィックライブラリを用いて可視化 | C |
+| [sorcery-assemble](https://github.com/c-a-c/sorcery-assemble) | チーム開発<br>マインクラフトで魔法が使えるアイテムを追加するプラグイン | Java |
+| [Competitive-Programming](https://github.com/ryonakagawa-1012/Competitive-Programming) | 競技プログラミングの提出コード、テンプレートなどを保存しているリポジトリ | Python |
+| [KSDUPC 2024](https://ioor.connpass.com/event/324201/) | 京都産業大学と同志社大学の有志の学生が運営、作問したプログラミングコンテスト |
+| [駅伝中継](https://mofecoder.com/contests/ksdupc_2024/tasks/ksdupc_2024_f) | KSDUPC 2024-F問題、想定解法はSortedlistを使う。優先度付きキューでも回答可能 | Sortedlist, 優先度付きキュー |
+| [TeraCoder2024](https://tcjudge.github.io/teaser-site/2024/) | 所属しているサークルIOORが運営、作問した京都産業大学で行った賞金付きのプログラミングコンテスト |
+| [Welcome to Teracoder](https://mofecoder.com/contests/teracoder2024/tasks/teracoder2024_a) | TeraCoder2024-A問題、想定解法はfor文等でN回"TeraCoder"を出力する |
+| [Only One Canpas](https://mofecoder.com/contests/teracoder2024/tasks/teracoder2024_d) | TeraCoder2024-D問題、想定解法は配列を使って解く |
+| [Wreker Terako](https://mofecoder.com/contests/teracoder2024/tasks/teracoder2024_h) | TeraCoder2024-H問題、想定解法は3乗の和の公式を使う |
+| [Say!Yes!Kyosan Beam](https://mofecoder.com/contests/teracoder2024/tasks/teracoder2024_k) | TeraCoder2024-K問題、想定解法は強連結成分分解を使う | 強連結成分分解 |
+| [Word Chain Terako](https://mofecoder.com/contests/teracoder2024/tasks/teracoder2024_l)| TeraCoder2024-L問題、想定解法は問題文通りに実装する |
