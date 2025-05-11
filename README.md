@@ -135,16 +135,16 @@
 
 <div align="center">
 
-  <a href="https://twitter.com/10_Naka_12" title="TwitterID: 10_Naka_12">
+  <a href="https://twitter.com/10_Naka_12" title="TwitterID: 10_Naka_12" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=twitter" alt="TwitterID: 10_Naka_12" />
   </a>
-  <a href="https://discord.com/" title="DiscordID: ryo.inc">
+  <a href="https://discord.com/" title="DiscordID: ryo.inc" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=discord" alt="DiscordID: ryo.inc" />
   </a>
-  <a href="mailto:ryo.na.na.ryo.na@gmail.com" title="MailAddress: ryo.na.na.ryo.na@gmail.com">
+  <a href="mailto:ryo.na.na.ryo.na@gmail.com" title="MailAddress: ryo.na.na.ryo.na@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=gmail" alt="GmailID: ryo.na.na.ryo.na@gmail.com" />
   </a>
-  <a href="https://www.instagram.com/10.ryo.12/" title="InstagramID: 10.ryo.12">
+  <a href="https://www.instagram.com/10.ryo.12/" title="InstagramID: 10.ryo.12" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=instagram" alt="InstagramID: 10.ryo.12" />
   </a>
 
