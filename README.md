@@ -80,12 +80,76 @@
 ## My skills, Environments and more
 <div align="center">
   
-  [![My Skills](https://skillicons.dev/icons?i=c,python,java,html,css,javascript,md)](https://skillicons.dev)  
-  
-  [![My Environments](https://skillicons.dev/icons?i=git,github,docker,vscode,pycharm,idea,webstorm,matlab)](https://skillicons.dev)
-  
-  [![more](https://skillicons.dev/icons?i=discord,instagram,twitter,gmail)](https://skillicons.dev)
-  
+  <a href="https://learn.microsoft.com/ja-jp/cpp/c-language/c-language-reference?view=msvc-170" title="C Language Reference">
+    <img src="https://skillicons.dev/icons?i=c" alt="C"/>
+  </a>
+  <a href="https://www.python.org/" title="Python Official Site">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python"/>
+  </a>
+  <a href="https://www.java.com/" title="Java Official Site">
+    <img src="https://skillicons.dev/icons?i=java" alt="Java"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/HTML" title="HTML Docs">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/CSS" title="CSS Docs">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
+  </a>
+  <a href="https://developer.mozilla.org/docs/Web/JavaScript" title="JavaScript Docs">
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript"/>
+  </a>
+  <a href="https://www.markdownguide.org/" title="Markdown Guide">
+    <img src="https://skillicons.dev/icons?i=md" alt="Markdown"/>
+  </a>
+
+</div>
+
+<div align="center">
+
+  <a href="https://git-scm.com/" title="Git">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
+  </a>
+  <a href="https://github.com/" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
+  </a>
+  <a href="https://www.docker.com/" title="Docker">
+    <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
+  </a>
+  <a href="https://code.visualstudio.com/" title="VSCode">
+    <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode"/>
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/" title="PyCharm">
+    <img src="https://skillicons.dev/icons?i=pycharm" alt="PyCharm"/>
+  </a>
+  <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA">
+    <img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA"/>
+  </a>
+  <a href="https://www.jetbrains.com/webstorm/" title="WebStorm">
+    <img src="https://skillicons.dev/icons?i=webstorm" alt="WebStorm"/>
+  </a>
+  <a href="https://www.mathworks.com/products/matlab.html" title="MATLAB">
+    <img src="https://skillicons.dev/icons?i=matlab" alt="MATLAB"/>
+  </a>
+
+</div>
+
+<div align="center">
+  <div align="center">
+    <a href="https://twitter.com/10_Naka_12" title="TwitterID: 10_Naka_12">
+      <img src="https://skillicons.dev/icons?i=twitter" alt="TwitterID: 10_Naka_12" />
+    </a>
+    <a href="https://discord.com/" title="DiscordID: ryo.inc">
+      <img src="https://skillicons.dev/icons?i=discord" alt="DiscordID: ryo.inc" />
+    </a>
+    <a href="mailto:ryo.na.na.ryo.na@gmail.com" title="MailAddress: ryo.na.na.ryo.na@gmail.com">
+      <img src="https://skillicons.dev/icons?i=gmail" alt="GmailID: ryo.na.na.ryo.na@gmail.com" />
+    </a>
+    <a href="https://www.instagram.com/10.ryo.12/" title="InstagramID: 10.ryo.12">
+      <img src="https://skillicons.dev/icons?i=instagram" alt="InstagramID: 10.ryo.12" />
+    </a>
+  </div>
+</div>
+
 </div>
 
 
