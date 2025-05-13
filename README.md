@@ -80,7 +80,7 @@
 ## My skills, Environments and more
 <div align="center">
   
-  <a href="https://learn.microsoft.com/ja-jp/cpp/c-language/c-language-reference?view=msvc-170" title="C Language Reference">
+  <a target="_blank" href="https://learn.microsoft.com/ja-jp/cpp/c-language/c-language-reference?view=msvc-170" title="C Language Reference">
     <img src="https://skillicons.dev/icons?i=c" alt="C"/>
   </a>
   <a href="https://www.python.org/" title="Python Official Site">
