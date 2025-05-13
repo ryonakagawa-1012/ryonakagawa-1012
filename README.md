@@ -24,7 +24,7 @@
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="https://komarev.com/ghpvc/?username=ryonakagawa-1012&label=&color=ffffff"
+      srcset="https://komarev.com/ghpvc/?username=ryonakagawa-1012&label=&color=lightgrey"
     />
     <img
       alt="scroll"
