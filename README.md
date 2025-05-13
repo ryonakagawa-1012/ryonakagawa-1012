@@ -16,7 +16,6 @@
   </picture>
   
   <p>I'm Ryo. I'm currently a junior in college.</p>
-
   <p>あなたは
     <picture>
     <source
