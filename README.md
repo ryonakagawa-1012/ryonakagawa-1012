@@ -16,7 +16,7 @@
   </picture>
   
   <p>I'm Ryo. I'm currently a junior in college.</p>
-  <p>あなたは
+  <p>You are the
     <picture>
     <source
       media="(prefers-color-scheme: dark)"
@@ -31,7 +31,7 @@
       src="https://komarev.com/ghpvc/?username=ryonakagawa-1012&label=&color=0d1116"
     />
   </picture>
-  番目のアリスです</p>
+  th visitor.</p>
 
 </div>
 
