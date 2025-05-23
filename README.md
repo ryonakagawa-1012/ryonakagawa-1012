@@ -71,7 +71,7 @@
       />
       <source
         media="(prefers-color-scheme: light)"
-        srcset="https://atcoder-readme-stats.vercel.app/stats/Xx_RYO_xX&show_icons=true&show_history=5&width=450"
+        srcset="https://atcoder-readme-stats.vercel.app/stats/Xx_RYO_xX?show_icons=true&show_history=5&width=450"
       />
       <img
         alt="Xx_RYO_xX's atcoder stats"
