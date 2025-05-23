@@ -62,24 +62,24 @@
   
 </div>
 
-
-<a href="https://atcoder.jp/users/Xx_RYO_xX?contestType=algo">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://atcoder-readme-stats.vercel.app/stats/Xx_RYO_xX?theme=darcula&show_icons=true&show_history=5"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://atcoder-readme-stats.vercel.app/stats/Xx_RYO_xX&show_icons=true&show_history=5"
-    />
-    <img
-      alt="Xx_RYO_xX's atcoder stats"
-      src="https://atcoder-readme-stats.vercel.app/stats/Xx_RYO_xX?theme=darcula&show_icons=true&show_history=5"
-    />
-  </picture>
-</a>
-
+<div align="center">
+  <a href="https://atcoder.jp/users/Xx_RYO_xX?contestType=algo">
+    <picture>
+      <source
+        media="(prefers-color-scheme: dark)"
+        srcset="https://atcoder-readme-stats.vercel.app/stats/Xx_RYO_xX?theme=darcula&show_icons=true&show_history=5&width=450"
+      />
+      <source
+        media="(prefers-color-scheme: light)"
+        srcset="https://atcoder-readme-stats.vercel.app/stats/Xx_RYO_xX&show_icons=true&show_history=5&width=450"
+      />
+      <img
+        alt="Xx_RYO_xX's atcoder stats"
+        src="https://atcoder-readme-stats.vercel.app/stats/Xx_RYO_xX?theme=darcula&show_icons=true&show_history=5&width=450"
+      />
+    </picture>
+  </a>
+</div>
 <!--
 <div align="center">
   <a href="https://atcoder.jp/users/Xx_RYO_xX?contestType=heuristic">
