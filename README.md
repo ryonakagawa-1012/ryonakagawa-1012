@@ -187,13 +187,13 @@ I have a strong interest in <strong>competitive programming</strong> and the <st
 
 ## 作問問題一覧
 
-### KSDUPC 2024
+### [KSDUPC 2024](https://ioor.connpass.com/event/324201/)
 
 *   [駅伝中継](https://mofecoder.com/contests/ksdupc_2024/tasks/ksdupc_2024_f)
     *   概要: KSDUPC 2024-F問題、想定解法はSortedlistを使う。優先度付きキューでも回答可能
     *   使用アルゴリズム、データ構造等: Sortedlist, 優先度付きキュー
 
-### TeraCoder2024
+### [TeraCoder2024](https://tcjudge.github.io/teaser-site/2024/)
 
 *   [Welcome to Teracoder](https://mofecoder.com/contests/teracoder2024/tasks/teracoder2024_a)
     *   概要: TeraCoder2024-A問題、想定解法はfor文等でN回"TeraCoder"を出力する
