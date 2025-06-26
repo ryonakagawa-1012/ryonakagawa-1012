@@ -15,7 +15,8 @@
     />
   </picture>
   
-  <p>I'm Ryo. I'm currently a junior in college.</p>
+  <p>I'm Ryo. I'm currently a junior in college.<br>
+I have a strong interest in <strong>competitive programming</strong> and the <strong>visualization, sonification, and haptification of programming</strong>.</p>
   <p>You are the
     <picture>
     <source
